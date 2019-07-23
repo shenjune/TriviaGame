@@ -1,5 +1,7 @@
 body{
-	background-image: url("./Assets/images/catbackground.jpg");
+	background-image: url("./../images/catbackground.jpg");
+	background-attachment: fixed;
+    background-size:100% auto;
 	text-align: center;
 	padding-top: 5%;
 }
